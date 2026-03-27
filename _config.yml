@@ -19,10 +19,8 @@ email: "SnehanshAgastya@gmail.com"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 theme: "minima"
-permalink: /:year/:month/:day/:title:output_ext
-markdown: kramdown
 
-baseurl: "/journey"
+baseurl: "/Journey"
 url: "https://ksagastya.github.io"
 
 rss: rss
