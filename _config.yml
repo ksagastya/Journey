@@ -21,6 +21,9 @@ email: "SnehanshAgastya@gmail.com"
 theme: "minima"
 markdown: kramdown
 
+baseurl: "/journey"
+url: "https://ksagastya.github.io"
+
 rss: rss
 
 kramdown:
